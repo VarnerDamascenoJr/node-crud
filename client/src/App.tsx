@@ -1,15 +1,16 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import { LoginPage } from './components/Pages/Login'
+import { LoginPage } from './components/Pages/Login/index.tsx'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
       <LoginPage />
+      <h1 className="text-3xl font-bold text-blue-600">
+        Install & Setup Vite + React + Typescript + Tailwind CSS 3
+      </h1>
     </>
   )
 }
