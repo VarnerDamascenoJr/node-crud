@@ -8,4 +8,7 @@ https://medium.com/@thenarcissistcoder/setting-up-husky-and-pre-commit-hooks-in-
 - jenkins for ci/cd 
 - deployment
 - testes
-- Modification for 
+- Modification for
+
+
+[Link for nodemon ](https://blog.logrocket.com/configuring-nodemon-typescript/)
